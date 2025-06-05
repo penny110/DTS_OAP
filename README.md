@@ -11,6 +11,7 @@ This experiments were conducted under consistent conditions (hardware: NVIDIA Ge
 ### Usage
 1. Clone the repo.;
 ```
+Please download the DTD_OAP.zip file for training, and the complete code logic can be found in the DTD_OAP.zip file.
 git clone https://github.com/penny110/DTS_OAP.git
 ```
 2. Put the data in './DTS_OAP/data';
