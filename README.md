@@ -1,10 +1,10 @@
-# A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and Root Canal Segmentation in X-Ray Images
+# Semi-Supervised Segmentation of Teeth and Root Canals for Bitewing Dental X-Ray Images Incorporating One-Dimensional Anatomical Priors
 # Train
 by Yin Pan 
 ### News
 <05.06.2025> We released the codes;
 ### Introduction
-#This repository is for our paper: 'A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and Root Canal Segmentation in X-Ray Images'. Note that, the #DTS_OAP model is named as DTS_OAP_v4_attention in our repository.
+#This repository is for our paper: 'Semi-Supervised Segmentation of Teeth and Root Canals for Bitewing Dental X-Ray Images Incorporating One-Dimensional Anatomical Priors'. Note that, the #DTS_OAP model is named as DTS_OAP_v4_attention in our repository.
 ### Requirements
 This experiments were conducted under consistent conditions (hardware: NVIDIA GeForce RTX 3050 GPU; software: PyTorch 1.12.1, CUDA 11.6, Python 3.8.10; random seed: 1337).
 ### Usage
