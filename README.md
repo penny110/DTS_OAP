@@ -1,10 +1,10 @@
-# A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and2 Root Canal Segmentation in X-Ray Images
+# A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and Root Canal Segmentation in X-Ray Images
 # Train
 by Yin Pan 
 ### News
 <05.06.2025> We released the codes;
 ### Introduction
-#This repository is for our paper: 'A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and2 Root Canal Segmentation in X-Ray Images'. Note that, the #DTS_OAP model is named as DTS_OAP_v4_attention in our repository.
+#This repository is for our paper: 'A Dual Teacher-Student Framework with Dual1 Perturbations for Semi-Supervised Tooth and Root Canal Segmentation in X-Ray Images'. Note that, the #DTS_OAP model is named as DTS_OAP_v4_attention in our repository.
 ### Requirements
 This experiments were conducted under consistent conditions (hardware: NVIDIA GeForce RTX 3050 GPU; software: PyTorch 1.12.1, CUDA 11.6, Python 3.8.10; random seed: 1337).
 ### Usage
