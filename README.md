@@ -17,12 +17,11 @@ Please send an email to the author to inquire about the data.
 ### 3. Train the model;
 ```
 cd DTS_OAP
-# e.g., for 20% labels on tooth
+e.g., for 20% labels on tooth
 ```
 python ./code/train_newdata.py --dataset_name tooth --model DTS_OAP_v4_attention --labelnum 14 --gpu 0 --temperature 0.1
 ```
-4. Test the model;
-```
+### 4. Test the model;
 cd DTS_OAP
 ```
 python ./code/test_newdata_calculate.py --dataset_name tooth --model DTS_OAP_v4_attention --exp DTS_OAP_v4_attention --labelnum 14 --gpu 0
