@@ -9,7 +9,7 @@ by Yin Pan
 This experiments were conducted under consistent conditions (hardware: NVIDIA GeForce RTX 3050 GPU; software: PyTorch 1.12.1, CUDA 11.6, Python 3.8.10; random seed: 1337).
 ### Usage
 ### 1. Clone the repo.;
-### Please download the DTD_OAP.zip file for training, and the complete code logic can be found in the DTD_OAP.zip file.
+### Please download the DTS_OAP.zip file for training, and the complete code logic can be found in the DTS_OAP.zip file.
 git clone https://github.com/penny110/DTS_OAP.git
 ### 2. Put the data in './DTS_OAP/data';
 Please send an email to the author to inquire about the data.
